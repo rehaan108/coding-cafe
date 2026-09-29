@@ -27,3 +27,11 @@ README.md moved from "Changes not staged for commit" to "Changes to be committed
 In the three-places model, git add moved the change from the working directory to the staging area. It isn't in the repository yet, because that needs a commit.
 
 ## Answer 7
+Git printed [main 33e5f20] Lab work so far, then 5 files changed, 86 insertions(+), followed by a "create mode" line for each new file (.gitignore, lab4/notes.md, and the week01 and week02 files).
+ So the commit went on main, and 5 new files were saved with 86 added lines.
+
+## Answer 8
+'33e5f20' are the first 7 characters of the commit.
+These character limits are designed to make project histories easy to read, search, and navigate within terminal screens and development tools.
+
+## Answer 9
