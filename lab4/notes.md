@@ -35,3 +35,22 @@ Git printed [main 33e5f20] Lab work so far, then 5 files changed, 86 insertions(
 These character limits are designed to make project histories easy to read, search, and navigate within terminal screens and development tools.
 
 ## Answer 9
+The four steps are: edit the file, check with 'git status', stage with 'git add', and save with 'git commit'. Then 'git log' shows the new commit in the history.
+
+## Answer 10
+GitHub shows 'README.md' automatically on the repository's front page, so it needs that exact name and has to be in the top folder. It is the first thing a visitor reads, so it explains what the project is.
+
+## Answer 11
+'gh auth login' logged me in to GitHub through the browser and saved my login credentials on my computer. It also set up Git to use them, so when I push, Git uses that saved login instead of asking for a password.
+
+## Answer 12
+The front page shows the contents of 'README.md', displayed as formatted text and not markdown. This is because GitHub automatically shows the README of a repository on its main page.
+It shows the content i copied from section 6.
+
+## Answer 13
+No, pushing did not change my local history. 'git log --oneline' shows the same commits as before, because push only copies my commits to GitHub.
+
+## Answer 14
+A private repository still exists on GitHub, and only I and the people I invite can see it. 
+A repository that does not exist on GitHub has no online copy at all, so there is no backup and nobody can be invited to see it.
+
