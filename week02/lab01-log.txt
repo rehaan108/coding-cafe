@@ -1,0 +1,16 @@
+  277  touch notes.md
+  278  mv notes.md Notes.md
+  279  cp Notes.md notes.md
+  280  cd ~/coding-cafe\npython3 -m venv .venv
+  281  ls
+  282  ls -a
+  283  source .venv/bin/activate
+  284  which python3
+  285  pip list\npip install requests\npip list
+  286  deactivate
+  287  which python3
+  288  man ls
+  289  man man
+  290  cd cod
+  291  history
+  292  python3
